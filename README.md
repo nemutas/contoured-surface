@@ -2,7 +2,7 @@
 
 https://nemutas.github.io/contoured-surface/
 
-<img src='https://user-images.githubusercontent.com/46724121/211792986-2cf2a7bf-b0a3-497a-86d0-6645e3824a67.png' width='600' />
+<img src='https://user-images.githubusercontent.com/46724121/211835566-bd4080db-17e3-4fef-a632-b894446c5065.jpg' width='600' />
 
 # References
 
